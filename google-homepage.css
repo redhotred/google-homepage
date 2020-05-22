@@ -1,0 +1,196 @@
+body {
+    background-color: rgb(255,255,255);
+    color: rgb(0,0,0,0.87);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 24px;
+    text-align: center;
+    margin: 22px 0 0 0;
+    min-width: 165px;
+}
+.header {
+    text-align: right;
+    margin-top: 13px;
+    padding: 0 30px 0 30px;
+}
+#gmail-link {
+    color: rgb(0,0,0,0.87);
+    text-decoration: none;
+    padding-right: 13px;
+}
+#image-link {
+    color: rgb(0,0,0,0.87);
+    text-decoration: none;
+    padding-right: 15px;
+}
+#google-apps {
+    width: 17px;
+    height: 17px;
+    padding-right: 17px;
+    margin-bottom: -3px;
+}
+#signin {
+    line-height: 28px;
+    padding: 0 12px;
+    background: #4387fd;
+    border: 1px solid #4285f4;
+    border-radius: 2px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+}
+#google-logo {
+    padding-bottom: 10px;
+    padding-top: 120px;
+    width: 272px;
+    height: 92px
+}
+#search-bar {
+    height: 34px !important;
+    width: 490px;
+    border-radius: 25px;
+    border-color: #f2f2f2;
+    border:1px solid #f2f2f2;
+    font-size: 16px;
+    padding: 0 20px 0 40px;
+    text-decoration: none;
+    color: rgb(0,0,0,0.87);
+}
+#search-bar:focus {
+    outline: none;
+    box-shadow: 0 0 5px 2px rgb(210,210,210);
+}
+#search-bar:hover {
+    box-shadow: 0 0 5px 2px rgb(210,210,210);
+}
+.buttons {
+    padding: 18px 0 0 0;
+}
+#google-search {
+    min-width: 54px;
+    height: 36px;
+    line-height: 27px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    color: #5F6368;
+    font-size: 14px;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    background-color: #f2f2f2;
+}
+#lucky {
+    min-width: 54px;
+    height: 36px;
+    line-height: 27px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    color: #5F6368;
+    font-size: 14px;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    background-color: #f2f2f2;
+}
+#google-search:focus {
+    outline:none;
+    border: 1px solid #4d70ff;
+    border-radius: 4px;
+}
+#lucky:focus {
+    outline:none;
+    border: 1px solid #4d70ff;
+    border-radius: 4px;
+}
+#google-search:hover {
+    color: rgb(0,0,0,0.87);
+    background-color: linear-gradient(to bottom, #f2f2f2 0%,#fafafa 100%);
+    border: 1px solid #b3b3b3;
+    border-radius: 4px;
+}
+#lucky:hover {
+    color: rgb(0,0,0,0.87);
+    background-color: linear-gradient(to bottom, #f2f2f2 0%,#fafafa 100%);
+    border: 1px solid #b3b3b3;
+    border-radius: 4px;
+}
+#f1 {
+    line-height: 40px;
+    font-size: 14px;
+    color:  rgb(0,0,0,0.54);
+    text-align: left;
+    width: 100%;
+    min-width: 980px;
+    height: 40px;
+    padding-left: 30px;
+    border-top: 1px solid #e4e4e4;
+    background: #f2f2f2;
+    position:fixed;
+    bottom: 40px;
+}
+.footer2 {
+    width: 100%;
+    min-width: 980px;
+    border-top: 1px solid #e4e4e4;
+    background: #f2f2f2;
+    position:fixed;
+    bottom: 0;
+    height: 40px;
+}
+#f21 {
+    float: left;
+    line-height: 40px;
+    font-size: 14px;
+    color:  rgb(0,0,0,0.54);
+    padding-left: 27px;
+    text-decoration: none;
+}
+#f22 {
+    float: left;
+    line-height: 40px;
+    font-size: 14px;
+    color:  rgb(0,0,0,0.54);
+    padding-left: 27px;
+    text-decoration: none;
+}
+#f23 {
+    float: left;
+    line-height: 40px;
+    font-size: 14px;
+    color:  rgb(0,0,0,0.54);
+    padding-left: 27px;
+    text-decoration: none;
+}
+#f24 {
+    float: left;
+    line-height: 40px;
+    font-size: 14px;
+    color:  rgb(0,0,0,0.54);
+    padding-left: 27px;
+    text-decoration: none;
+}
+#f27 {
+    float: right;
+    line-height: 41px;
+    font-size: 14px;
+    color:  rgb(0,0,0,0.54);
+    padding-left: 27px;
+    padding-right: 30px;
+    text-decoration: none;
+}
+#f26 {
+    float: right;
+    line-height: 41px;
+    font-size: 14px;
+    color:  rgb(0,0,0,0.54);
+    padding-left: 27px;
+    text-decoration: none;
+}
+
+#f25 {
+    float: right;
+    line-height: 41px;
+    font-size: 14px;
+    color:  rgb(0,0,0,0.54);
+    padding-left: 27px;
+    text-decoration: none;
+}
+
